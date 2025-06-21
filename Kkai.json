@@ -1,10 +1,8 @@
 {
   "name": "Kkai",
-  "subtitle": "",
+  "subtitle": "Kkai repo source",
   "description": "respect",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.google.ios.youtube"
@@ -13,23 +11,18 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "Kkai",
-      "subtitle": "",
-      "localizedDescription": "Youtube",
+      "subtitle": "Kkai repo source",
+      "localizedDescription": "",
       "iconURL": "https://i.imgur.com/3VIADbK.png",
       "tintColor": "#fc0434",
-      "category": "other",
-      "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://gofile.io/d/hRFYwW",
           "size": 121400000,
           "version": "20.21.6",
-          "buildVersion": "123",
           "date": "2025-06-21T16:06:00+02:00",
-          "localizedDescription": null,
-          "minOSVersion": null
+          "localizedDescription": "",
         }
       ],
       "appPermissions": {
@@ -45,9 +38,7 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
-      },
-      "patreon": {}
+      }
     }
-  ],
-  "news": []
+  ]
 }
