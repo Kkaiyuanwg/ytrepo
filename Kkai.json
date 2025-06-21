@@ -1,7 +1,7 @@
 {
   "name": "Kkai",
   "subtitle": "Kkai repo source",
-  "description": "respect",
+  "description": "Sidestore for apps",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "tintColor": "#6156e2",
   "featuredApps": [
@@ -18,7 +18,7 @@
       "tintColor": "#fc0434",
       "versions": [
         {
-          "downloadURL": "https://gofile.io/d/hRFYwW",
+          "downloadURL": "https://github.com/Kkaiyuanwg/ytrepo/releases/download/v20.21.6/YouTube_20.21.6_YTPlus_5.2b1.ipa",
           "size": 121400000,
           "version": "20.21.6",
           "date": "2025-06-21T16:06:00+02:00",
