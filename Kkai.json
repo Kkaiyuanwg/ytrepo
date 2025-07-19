@@ -1,8 +1,10 @@
 {
-  "name": "Kkai",
-  "subtitle": "Kkai repo source",
-  "description": "Sidestore for apps",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "name": "Kkai source",
+  "subtitle": "Source for kkai apps",
+  "description": "",
+  "iconURL": "https://i.imgur.com/HoPQmcT.jpeg",
+  "website": "",
+  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.google.ios.youtube"
@@ -11,18 +13,23 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Kkai",
-      "subtitle": "Kkai repo source",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/3VIADbK.png",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/evFawWN.png",
       "tintColor": "#fc0434",
+      "category": "other",
+      "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://github.com/Kkaiyuanwg/ytrepo/releases/download/v20.21.6/YouTube_20.21.6_YTPlus_5.2b1.ipa",
           "size": 121400000,
           "version": "20.21.6",
-          "date": "2025-06-21T16:06:00+02:00",
-          "localizedDescription": "",
+          "buildVersion": null,
+          "date": "2025-07-19T17:02:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -38,7 +45,9 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
-      }
+      },
+      "patreon": {}
     }
-  ]
+  ],
+  "news": []
 }
