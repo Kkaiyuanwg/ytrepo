@@ -1,10 +1,10 @@
 {
   "name": "Kkai source",
   "subtitle": "Source for kkai apps",
-  "description": "",
+  "description": "Hi",
   "iconURL": "https://i.imgur.com/HoPQmcT.jpeg",
-  "website": "",
-  "patreonURL": "",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.google.ios.youtube"
@@ -14,7 +14,7 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "Example Developer",
+      "developerName": "K",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/evFawWN.png",
