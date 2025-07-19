@@ -26,10 +26,10 @@
           "downloadURL": "https://github.com/Kkaiyuanwg/ytrepo/releases/download/v20.21.6/YouTube_20.21.6_YTPlus_5.2b1.ipa",
           "size": 121400000,
           "version": "20.21.6",
-          "buildVersion": null,
+          "buildVersion": "123",
           "date": "2025-07-19T17:02:00+02:00",
-          "localizedDescription": null,
-          "minOSVersion": null
+          "localizedDescription": "Ho",
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
